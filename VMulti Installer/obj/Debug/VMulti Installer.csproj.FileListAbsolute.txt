@@ -1,0 +1,6 @@
+C:\Users\Fan\Desktop\VMulti\VMulti Installer\bin\Debug\VMulti Installer.dll
+C:\Users\Fan\Desktop\VMulti\VMulti Installer\bin\Debug\VMulti Installer.pdb
+C:\Users\Fan\Desktop\VMulti\VMulti Installer\obj\Debug\VMulti Installer.csproj.AssemblyReference.cache
+C:\Users\Fan\Desktop\VMulti\VMulti Installer\obj\Debug\VMulti Installer.csproj.CoreCompileInputs.cache
+C:\Users\Fan\Desktop\VMulti\VMulti Installer\obj\Debug\VMulti Installer.dll
+C:\Users\Fan\Desktop\VMulti\VMulti Installer\obj\Debug\VMulti Installer.pdb

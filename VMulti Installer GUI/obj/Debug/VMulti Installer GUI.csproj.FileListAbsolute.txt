@@ -1,0 +1,23 @@
+C:\Users\Fan\Desktop\VMulti Installer GUI\obj\Debug\VMulti Installer GUI.csproj.AssemblyReference.cache
+C:\Users\Fan\Desktop\VMulti Installer GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Fan\Desktop\VMulti Installer GUI\obj\Debug\App.g.cs
+C:\Users\Fan\Desktop\VMulti Installer GUI\obj\Debug\VMulti Installer GUI_MarkupCompile.cache
+C:\Users\Fan\Desktop\VMulti Installer GUI\obj\Debug\VMulti Installer GUI_MarkupCompile.lref
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\obj\Debug\VMulti Installer GUI.csproj.AssemblyReference.cache
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\obj\Debug\App.g.cs
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\obj\Debug\VMulti Installer GUI_MarkupCompile.cache
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\obj\Debug\VMulti Installer GUI_MarkupCompile.lref
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\bin\Debug\VMulti Installer GUI.exe.config
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\bin\Debug\VMulti Installer GUI.exe
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\bin\Debug\VMulti Installer GUI.pdb
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\bin\Debug\VMulti Installer.dll
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\bin\Debug\VMulti Installer.pdb
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\obj\Debug\MainWindow.baml
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\obj\Debug\VMulti Installer GUI.g.resources
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\obj\Debug\VMulti_Installer_GUI.Properties.Resources.resources
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\obj\Debug\VMulti Installer GUI.csproj.GenerateResource.cache
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\obj\Debug\VMulti Installer GUI.csproj.CoreCompileInputs.cache
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\obj\Debug\VMulti I.55ED5141.Up2Date
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\obj\Debug\VMulti Installer GUI.exe
+C:\Users\Fan\Desktop\VMulti\VMulti Installer GUI\obj\Debug\VMulti Installer GUI.pdb
